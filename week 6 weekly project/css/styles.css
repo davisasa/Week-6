@@ -1,0 +1,265 @@
+body{
+    background-color: rgb(238, 237, 237);
+    
+}
+
+
+.justify{
+    margin-left: 190px;
+    margin-right: 150px;
+}
+
+.nav-lnk{
+    font-size: 20px ;
+}
+
+.opening-vid{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-top-left-radius: 20%;
+}
+
+.opening-vid-con{
+    border-radius: 1%;
+}
+
+.button {
+    background-color: #c9c9c9;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+
+  .button-2 {
+    background-color: orangered;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+
+  .button-3 {
+    background-color: #fff;
+    border: none;
+    color: black;
+    font-size: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+
+  .multiply{
+    font-weight: bold;
+  }
+
+  .vid-text{
+    margin-left: 20px;
+    margin-top: -180px;
+    color: #fff;
+  }
+
+.latest-button{
+    color: white;
+    background-color: rgb(212, 212, 212);
+    width: 190px !important;
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: none;
+    cursor: pointer;
+    border-radius: 16px;
+    margin-bottom: 0px;
+}
+
+.latest{
+    color: white;
+    margin-top: -220px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    flex-direction: column;
+}
+
+#tailor{
+    font-weight: bold;
+}
+
+.menu-blk{
+    background-color: #fff !important;
+    text-align: left;
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 10px;
+    height: 70px;
+    
+}
+
+.menu-blks{
+    background-color: #fff !important;
+    text-align: left;
+    border-radius: 3%;
+    font-weight: bold;
+}
+
+.menu-blks:hover{
+    background-color: rgb(245, 245, 245) !important;
+}
+
+#text-opacity{
+    opacity: 50%;
+}
+
+.text-opacity{
+    opacity: 50%;
+}
+
+#text-get{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.get-involved{
+    font-weight: bold;
+    background-color: #fff;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 3%;
+}
+
+.family{
+    font-weight: bold;
+    background-color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    
+    height: 250px;
+    border-radius: 3%;
+}
+
+.fam-blk-{
+    background-color: #fff !important;
+    text-align: left;
+    font-weight: bold;
+    height: 80px;
+}
+
+.fam-blks-btn{
+    background-color: #fff !important;
+    text-align: left;
+    border-radius: 3%;
+    font-weight: bold;
+}
+
+.fam-blks-btn:hover{
+    background-color: rgb(245, 245, 245) !important;
+}
+
+.loveweek{
+    width: 100%;
+    height: 400px;
+    margin-top: 10px;
+    border-radius: 3%;
+}
+
+.loveweek-container > img{
+    transition: 200ms ease-in-out;
+}
+
+.sign-up{
+    font-weight: bold;
+    background-color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    height: 190px;
+    border-radius: 3%;
+}
+
+.social-media{
+    font-weight: bold;
+    background-color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    height: 300px;
+    border-radius: 3%;
+}
+
+.footer{
+    background-color: #fff;
+    padding-bottom: 60px;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+ul{
+    list-style: none;
+}
+
+.link-footer{
+    color: black;
+}
+
+.link-footer:hover{
+    color: black;
+}
+
+.lower-footer{
+    padding-left: 30px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    display: flex;
+}
+
+hr{
+    margin-top: -60px;
+    
+}
+
+.icons{
+    display: flex;
+    padding-left: 160px;
+}
+
+.s-icons{
+    width: 50px;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.copy{
+    padding-left:170px;
+    font-weight: bold;
+    opacity: 50%;
+}
+
+.terms{
+    padding-left: 370px;
+    font-weight: bold;
+    opacity: 50%;
+}
